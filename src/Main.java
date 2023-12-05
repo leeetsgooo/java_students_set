@@ -130,6 +130,7 @@ public class Main {
                     break;
                 default:
                     System.out.println("Неверная команда. Пожалуйста, введите корректную команду.");
+
             }
         }
     }
